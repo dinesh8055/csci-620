@@ -1,0 +1,6 @@
+Our project team consists of Dinesh Gudi, Kamaleshwar Panapakam and Gustavo Kondo.
+Dinesh Gudi is responsible for data collection and he also worked on most part of preprocessing the data. He is responsible for removing missing values, normalization and other proprocessing tasks like finding the percentage change attribute for each index.
+Kamaleshwar worked on SQL and database connections. He was also responsible for the application of different algorithms like SVM, Decision Trees, Ada Boost, Random Forests. He also worked on visualization of correlation and comparison of the results.
+Gustavo Kondo woked on the Auto regression analysis of the stock data. He worked on visualization for the Auto regression analysis and was also involved in various other visualization aspects.
+
+Although each of us had saperate tasks, it is a combined effort and we helped each other out in our respective tasks. 
